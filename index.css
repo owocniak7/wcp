@@ -1,0 +1,1027 @@
+.copyrights {
+    position: absolute;
+    top: 18.313rem;
+    left: 26.063rem;
+    font-size: 1.25rem;
+    color: #d8dede;
+    text-align: left;
+}
+.line-icon {
+    position: absolute;
+    top: 17.563rem;
+    left: 5rem;
+    width: 80rem;
+    height: 0.188rem;
+    object-fit: contain;
+}
+.o-nas {
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-menu {
+    width: 2.375rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-menu1 {
+    width: 3.313rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-menu2 {
+    width: 8.563rem;
+    position: relative;
+    height: 1.813rem;
+}
+.onas-kontakt-polityka {
+    position: absolute;
+    top: 6.438rem;
+    left: 65rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.187rem;
+}
+.footer-menu3 {
+    width: 2.688rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-menu4 {
+    width: 12.938rem;
+    position: relative;
+    height: 1.813rem;
+}
+.statut-standard {
+    position: absolute;
+    top: 8.563rem;
+    left: 64.875rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.125rem;
+}
+.facebook-icon {
+    width: 1.625rem;
+    position: relative;
+    border-radius: 5px;
+    height: 1.625rem;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.sm-footer {
+    position: absolute;
+    top: 3.813rem;
+    left: 75rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.875rem;
+}
+.oferta1 {
+    align-self: stretch;
+    position: relative;
+    display: flex;
+    color: #656565;
+    text-align: left;
+    align-items: center;
+    height: 1.125rem;
+    flex-shrink: 0;
+}
+.footer-menu5 {
+    width: 8.875rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-menu6 {
+    align-self: stretch;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-menu7 {
+    width: 3.25rem;
+    position: relative;
+    height: 1.813rem;
+}
+.oferta {
+    position: absolute;
+    top: 3.813rem;
+    left: 38.188rem;
+    width: 11.188rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.187rem;
+}
+.edukacja-wsppraca-biznes {
+    align-self: stretch;
+    position: relative;
+}
+.budujemy-przedsibiorczo-jut {
+    align-self: stretch;
+    position: relative;
+    margin-top: -0.438rem;
+}
+.tagline {
+    position: absolute;
+    top: 7.875rem;
+    left: 8.438rem;
+    width: 18.375rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+}
+.wcp-logo-icon {
+    position: absolute;
+    top: 3.813rem;
+    left: 8.375rem;
+    width: 10.5rem;
+    height: 3.313rem;
+    object-fit: cover;
+}
+.wypelnij-formularz {
+    position: relative;
+}
+.buttons {
+    position: absolute;
+    top: 11.5rem;
+    left: 67.938rem;
+    box-shadow: 0px 0px 5.3px rgba(0, 0, 0, 0.35);
+    border-radius: 50px;
+    background-color: #379860;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0.625rem 2.625rem;
+    cursor: pointer;
+    color: #fff;
+}
+.language-icon {
+    width: 1.5rem;
+    position: relative;
+    height: 1.5rem;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.english {
+    width: 3.625rem;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1rem;
+    flex-shrink: 0;
+}
+.language {
+    position: absolute;
+    top: calc(50% + 26.5px);
+    left: calc(50% - 50rem);
+    border: 1px solid #545454;
+    box-sizing: border-box;
+    width: 6.875rem;
+    height: 2.313rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0.437rem;
+}
+.footer {
+    position: absolute;
+    top: 295.438rem;
+    left: calc(50% - 45rem);
+    width: 100vw;
+    height: 21.188rem;
+    overflow: hidden;
+    font-size: 1.063rem;
+}
+
+.rysy-logo-icon {
+    width: 14.094rem;
+    position: relative;
+    height: 5rem;
+    object-fit: cover;
+}
+.now-logo-icon {
+    width: 11.5rem;
+    position: relative;
+    height: 5.875rem;
+    object-fit: cover;
+}
+.malik-logo-icon {
+    width: 13.313rem;
+    position: relative;
+    height: 5.313rem;
+    object-fit: cover;
+}
+.illipula-logo-icon {
+    width: 6.125rem;
+    position: relative;
+    height: 6.125rem;
+    object-fit: cover;
+}
+.cisneklate-logo-icon {
+    width: 17.188rem;
+    position: relative;
+    height: 5.313rem;
+    object-fit: cover;
+}
+.haninge-logo-icon {
+    width: 14.625rem;
+    position: relative;
+    height: 4.563rem;
+    object-fit: cover;
+}
+.partners {
+    position: absolute;
+    top: 286.375rem;
+    left: calc(50% - 692px);
+    width: 86.531rem;
+    height: 6.125rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.937rem;
+}
+.img-1880-1-icon {
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+    width: 70.125rem;
+    height: 21.438rem;
+    object-fit: cover;
+}
+.gotowi-na-wkroczenie {
+    position: absolute;
+    top: calc(50% - 72.5px);
+    left: calc(50% - 444px);
+    line-height: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 55.5rem;
+}
+.edukacja {
+    position: relative;
+    line-height: 1.875rem;
+}
+.buttons1 {
+    position: absolute;
+    top: 13.188rem;
+    left: 29.25rem;
+    box-shadow: 0px 0px 5.3px rgba(0, 0, 0, 0.35);
+    border-radius: 50px;
+    background-color: #fff;
+    width: 11.688rem;
+    height: 3.5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0.625rem 2.625rem;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-size: 1.563rem;
+    color: #44844d;
+}
+.vector-icon {
+    position: absolute;
+    top: -50.234rem;
+    left: 7.936rem;
+    width: 100.469rem;
+    height: 98.8rem;
+    object-fit: contain;
+    opacity: 0.7;
+}
+.vector-icon1 {
+    position: absolute;
+    top: -20.837rem;
+    left: -19.447rem;
+    width: 100.594rem;
+    height: 98.019rem;
+    object-fit: contain;
+    opacity: 0.7;
+}
+.contact-segment {
+    position: absolute;
+    top: 250.625rem;
+    left: calc(50% - 561px);
+    border-radius: 40px;
+    background-color: #379860;
+    width: 70.125rem;
+    height: 21.438rem;
+    overflow: hidden;
+    font-size: 2.5rem;
+    color: #fff;
+}
+.line {
+    position: absolute;
+    top: 18.438rem;
+    left: calc(50% - 6px);
+    border-right: 4px solid #eeeded;
+    box-sizing: border-box;
+    width: 0.25rem;
+    height: 11.875rem;
+}
+.testimonial2 {
+    position: absolute;
+    top: 20rem;
+    left: 47.313rem;
+    width: 24.813rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 2.687rem;
+}
+.text1 {
+    width: 24.813rem;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.testimonial1 {
+    position: absolute;
+    top: 20rem;
+    left: 3.063rem;
+    width: 27.438rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 2.687rem;
+}
+.star-icon {
+    width: 0.875rem;
+    position: relative;
+    height: 0.875rem;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.stars {
+    position: absolute;
+    top: 15.313rem;
+    left: 47.125rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.5rem;
+}
+.stars1 {
+    position: absolute;
+    top: 15.75rem;
+    left: 3.063rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.5rem;
+}
+.arrow-left-icon {
+    align-self: stretch;
+    flex: 1;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.arrow-right-icon {
+    align-self: stretch;
+    flex: 1;
+    border-radius: 5px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.arrows {
+    position: absolute;
+    top: 11.313rem;
+    left: 66.625rem;
+    width: 3.063rem;
+    height: 0.875rem;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1rem;
+}
+.title {
+    position: absolute;
+    top: calc(50% - 222px);
+    left: calc(50% - 344px);
+    font-size: 2.813rem;
+    line-height: 2.813rem;
+    display: flex;
+    font-family: Akatab;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 43rem;
+    height: 5.875rem;
+}
+.testimonials {
+    position: absolute;
+    top: 207.25rem;
+    left: calc(50% - 604px);
+    width: 75.5rem;
+    height: 33.25rem;
+    overflow: hidden;
+    text-align: left;
+    font-size: 1.063rem;
+}
+.events-child {
+    position: absolute;
+    top: -0.175rem;
+    background-color: #c8e8cd;
+    width: 150rem;
+    height: 32.313rem;
+    overflow: hidden;
+}
+.mask-group-icon {
+    opacity: 1;
+    position: absolute;
+    border-radius: 0rem 3rem 3rem 0rem;
+    height: 100.39%;
+    width: 50.49%;
+    top: -0.39%;
+    right: 49.51%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.yes-youth-engage {
+    opacity: 1;
+    align-self: stretch;
+    position: relative;
+    line-height: 1.875rem;
+    display: flex;
+    align-items: center;
+    height: 5.375rem;
+    flex-shrink: 0;
+}
+.zrwnowaony-rozwj-nie {
+    opacity: 1;
+    align-self: stretch;
+    position: relative;
+    font-size: 1.063rem;
+}
+.yes-youth-engage-sustain-parent {
+    opacity: 1;
+    position: absolute;
+    top: 9.25rem;
+    left: 51.25rem;
+    width: 32.875rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1rem;
+}
+
+.mask-group-icon-2 {
+    opacity: 0;
+    position: absolute;
+    border-radius: 0rem 3rem 3rem 0rem;
+    height: 100.39%;
+    width: 50.49%;
+    top: -0.39%;
+    right: 49.51%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+.teen-tycoon-training {
+    opacity: 1;
+    align-self: stretch;
+    position: relative;
+    line-height: 1.875rem;
+    display: flex;
+    align-items: center;
+    height: 5.375rem;
+    flex-shrink: 0;
+}
+
+.cztery-nowe {
+    opacity: 1;
+    align-self: stretch;
+    position: relative;
+    font-size: 1.063rem;
+}
+
+.teen-tycoon-training-parent {
+    opacity: 0;
+    position: absolute;
+    top: 9.25rem;
+    left: 51.25rem;
+    width: 32.875rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1rem;
+}
+
+.left-icon {
+    width: 1.5rem;
+    position: relative;
+    height: 1.5rem;
+}
+
+.slider {
+    width: 2.5rem;
+    backdrop-filter: blur(28px);
+    border-radius: 40px;
+    background-color: rgba(255, 255, 255, 0.15);
+    height: 2.5rem;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider2 {
+    width: 2.5rem;
+    backdrop-filter: blur(28px);
+    border-radius: 40px;
+    background-color: rgba(255, 255, 255, 0.15);
+    height: 2.5rem;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.slider-parent {
+    position: absolute;
+    top: 14.875rem;
+    left: 1.063rem;
+    width: 123%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.events {
+    position: absolute;
+    top: 164.938rem;
+    left: 0rem;
+    width: 90rem;
+    height: 32.188rem;
+    text-align: left;
+}
+.text2 {
+    position: absolute;
+    top: 44rem;
+    left: 36.813rem;
+    font-size: 0.75rem;
+    font-family: Inter;
+    color: #000;
+}
+.check-button {
+    position: absolute;
+    top: 13.938rem;
+    left: 59.813rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.437rem;
+}
+.zesp-wcp-tworz {
+    position: absolute;
+    top: calc(50% - 261.5px);
+    left: calc(50% - 598px);
+    line-height: 2.188rem;
+    display: flex;
+    align-items: center;
+    width: 59.25rem;
+}
+.filip1 {
+    line-height: 1.2rem;
+}
+.filip {
+    margin: 0;
+}
+.project-manager {
+    margin: 0;
+    line-height: 1.4rem;
+}
+.filip-project-manager-container {
+    position: absolute;
+    top: calc(50% + 298.5px);
+    left: calc(50% - 490px);
+    text-align: center;
+}
+.marcin-prezes-zarzdu-container {
+    position: absolute;
+    top: calc(50% + 298.5px);
+    left: calc(50% - 75px);
+    text-align: center;
+}
+.piotr-wiceprezes-zarzdu-container {
+    position: absolute;
+    top: calc(50% + 298.5px);
+    left: calc(50% + 310px);
+    text-align: center;
+}
+.poznajcie-nas-bliej {
+    position: absolute;
+    top: calc(50% - 347.5px);
+    left: calc(50% - 598px);
+    font-size: 2.813rem;
+    line-height: 2.813rem;
+    display: flex;
+    font-family: Akatab;
+    align-items: center;
+    width: 31.375rem;
+    height: 5.875rem;
+}
+.img-1940-1-icon {
+    position: absolute;
+    border-radius: 3rem;
+    bottom: 5rem;
+    left: calc(50% - 614px);
+    width: 24.438rem;
+    height: 24rem;
+    object-fit: cover;
+}
+.img-1968-1-icon {
+    position: absolute;
+    border-radius: 3rem;
+    bottom: 5rem;
+    left: calc(50.5% + 190px);
+    width: 24.438rem;
+    height: 24rem;
+    object-fit: cover;
+}
+.img-1887-1-icon {
+    position: absolute;
+    border-radius: 3rem;
+    bottom: 5rem;
+    left: calc(50% - 209px);
+    width: 24.438rem;
+    height: 24rem;
+    object-fit: cover;
+}
+.team {
+    position: absolute;
+    top: 107rem;
+    left: calc(50% - 597px);
+    width: 74.75rem;
+    height: 45.813rem;
+    text-align: left;
+}
+.dla-szk {
+    margin: 0;
+    line-height: 1.8rem;
+}
+.i-organizacji {
+    margin: 0;
+    line-height: 1.2rem;
+}
+.dla-szk-i-organizacji-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 1.062rem 0.625rem;
+}
+.icons-offer {
+    width: 6.375rem;
+    position: relative;
+    height: 6.5rem;
+    transition: width 0.4s ease, height 0.4s ease;
+}
+.offer-homepage-buttons {
+    width: 24.375rem;
+    border-radius: 50px;
+    background-color: #fff;
+    height: 20.625rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 1.25rem 3.125rem;
+    box-sizing: border-box;
+    gap: 0.625rem;
+}
+.dla-firm {
+    position: relative;
+    line-height: 2.813rem;
+    font-weight: 900;
+}
+.offer-homepage-buttons2 {
+    width: 24.375rem;
+    border-radius: 50px;
+    background-color: #fff;
+    height: 20.625rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 1.25rem 3.125rem;
+    box-sizing: border-box;
+    gap: 0.625rem;
+    font-family: Akatab;
+}
+.buttons2 {
+    position: absolute;
+    top: 19.938rem;
+    left: 2.188rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.937rem;
+}
+.title1 {
+    align-self: stretch;
+    position: relative;
+    line-height: 2.813rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5.875rem;
+    flex-shrink: 0;
+}
+.content {
+    align-self: stretch;
+    position: relative;
+    font-size: 1.563rem;
+    line-height: 2.188rem;
+    font-family: Jaldi;
+}
+.text6 {
+    position: absolute;
+    top: 2.625rem;
+    left: 3.625rem;
+    width: 74.125rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.5rem;
+    font-size: 2.813rem;
+    font-family: Akatab;
+}
+.offer {
+    position: absolute;
+    top: 55rem;
+    left: calc(50% - 655px);
+    border-radius: 40px;
+    background-color: #c8e8cd;
+    width: 81.313rem;
+    height: 45rem;
+    overflow: hidden;
+}
+.rectangles-child {
+    position: absolute;
+    top: 3.438rem;
+    left: 75.75rem;
+    border-radius: 40px;
+    border: 5px solid #f5f5f5;
+    box-sizing: border-box;
+    width: 29.813rem;
+    height: 29.813rem;
+}
+.rectangles-item {
+    position: absolute;
+    top: 0.75rem;
+    left: 78.938rem;
+    border-radius: 40px;
+    border: 5px solid #f5f5f5;
+    box-sizing: border-box;
+    width: 29.813rem;
+    height: 29.813rem;
+}
+.rectangles-inner {
+    position: absolute;
+    top: 14.875rem;
+    left: 0rem;
+    border-radius: 40px;
+    border: 5px solid #f5f5f5;
+    box-sizing: border-box;
+    width: 24.063rem;
+    height: 24.063rem;
+}
+.rectangle-div {
+    position: absolute;
+    top: 12.688rem;
+    left: 2.563rem;
+    border-radius: 40px;
+    border: 5px solid #f5f5f5;
+    box-sizing: border-box;
+    width: 24.063rem;
+    height: 24.063rem;
+}
+.rectangles-child1 {
+    position: absolute;
+    top: 0.938rem;
+    left: 39.375rem;
+    border-radius: 20px;
+    border: 5px solid #f1f1f1;
+    box-sizing: border-box;
+    width: 10.063rem;
+    height: 10.063rem;
+}
+.rectangles-child2 {
+    position: absolute;
+    top: 0rem;
+    left: 40.438rem;
+    border-radius: 20px;
+    border: 5px solid #f1f1f1;
+    box-sizing: border-box;
+    width: 10.125rem;
+    height: 10.063rem;
+}
+.rectangles {
+    position: absolute;
+    top: 0.688rem;
+    left: 0rem;
+    width: 108.75rem;
+    height: 38.938rem;
+}
+.buttons3 {
+    position: absolute;
+    top: 26.5rem;
+    left: 18.438rem;
+    box-shadow: 0px 0px 5.3px rgba(0, 0, 0, 0.35);
+    border-radius: 50px;
+    background-color: #379860;
+    width: 12.938rem;
+    height: 3.625rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0.625rem 2.625rem;
+    box-sizing: border-box;
+}
+.title2 {
+    align-self: stretch;
+    position: relative;
+    line-height: 3.75rem;
+    display: flex;
+    align-items: center;
+    height: 8.375rem;
+    flex-shrink: 0;
+}
+.text7 {
+    position: absolute;
+    top: 9.75rem;
+    left: 18.438rem;
+    width: 41.938rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 3.438rem;
+    color: #545454;
+    font-family: Akatab;
+}
+.image-landing-page-icon {
+    position: absolute;
+    top: -0.625rem;
+    left: 58.563rem;
+    width: 39.25rem;
+    height: 39.25rem;
+    object-fit: cover;
+}
+.cta {
+    position: absolute;
+    top: 7.938rem;
+    left: calc(50% - 913px);
+    width: 108.75rem;
+    height: 50.938rem;
+    color: #fff;
+}
+.logo-wcp-07-2 {
+    position: absolute;
+    top: 1.313rem;
+    left: 1.875rem;
+    width: 12.688rem;
+    height: 3.313rem;
+    object-fit: cover;
+}
+.search-icon {
+    position: absolute;
+    top: 1.375rem;
+    left: 84rem;
+    width: 3.063rem;
+    height: 3.063rem;
+}
+.home {
+    position: absolute;
+    top: 25%;
+    left: 16.85%;
+    line-height: 2.188rem;
+}
+.header-menu {
+    width: 5.081rem;
+    position: relative;
+    height: 4.25rem;
+}
+.home1 {
+    position: absolute;
+    top: 25%;
+    left: 14.39%;
+    line-height: 2.188rem;
+}
+.home2 {
+    position: absolute;
+    top: 25%;
+    left: 11.93%;
+    line-height: 2.188rem;
+}
+.home3 {
+    position: absolute;
+    top: 25%;
+    left: 18.46%;
+    line-height: 2.188rem;
+}
+.konrakt {
+    width: 7.25rem;
+    position: relative;
+    height: 4.25rem;
+}
+.buttons4 {
+    position: absolute;
+    top: 0.75rem;
+    left: calc(50% - 255px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 3.125rem;
+}
+.header {
+    position: absolute;
+    top: 0rem;
+    left: calc(50% - 720px);
+    background-color: #fff;
+    width: 90rem;
+    height: 5.813rem;
+    overflow: hidden;
+}
+.homepage {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 316.625rem;
+    overflow: hidden;
+    text-align: center;
+    font-size: 1.563rem;
+    color: #545454;
+    font-family: Jaldi;
+}
+.offer-list {
+    opacity: 0;
+    list-style: disc;
+    margin: 0.8rem 0 0;
+    padding-left: 1.2rem;
+    text-align: left;
+    font-size: 1.1rem;
+    transition: opacity 0.4s ease;
+}
+
+.offer-homepage-buttons:hover .offer-list {
+    opacity: 1;
+}
+
+.offer-homepage-buttons:hover .icons-offer {
+    width: 3.23rem;
+    height: 3.30rem;
+}
+.mask-group-icon,
+.yes-youth-engage-sustain-parent,
+.mask-group-icon-2,
+.teen-tycoon-training-parent {
+transition: opacity 0.5s ease;
+}

@@ -1,0 +1,576 @@
+.copyrights {
+    position: absolute;
+    top: 18.313rem;
+    left: 26.063rem;
+    font-size: 1.25rem;
+    color: #d8dede;
+    text-align: left;
+}
+.line-icon {
+    position: absolute;
+    top: 17.563rem;
+    left: 5rem;
+    width: 80rem;
+    height: 0.188rem;
+    object-fit: contain;
+}
+.o-nas {
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-menu {
+    width: 2.375rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-menu1 {
+    width: 3.313rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-menu2 {
+    width: 8.563rem;
+    position: relative;
+    height: 1.813rem;
+}
+.onas-kontakt-polityka {
+    position: absolute;
+    top: 6.438rem;
+    left: 65rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.187rem;
+}
+.footer-menu3 {
+    width: 2.688rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-menu4 {
+    width: 12.938rem;
+    position: relative;
+    height: 1.813rem;
+}
+.statut-standard {
+    position: absolute;
+    top: 8.563rem;
+    left: 64.875rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.125rem;
+}
+.facebook-icon {
+    width: 1.625rem;
+    position: relative;
+    border-radius: 5px;
+    height: 1.625rem;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.sm-footer {
+    position: absolute;
+    top: 3.813rem;
+    left: 75rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.875rem;
+}
+.oferta1 {
+    align-self: stretch;
+    position: relative;
+    display: flex;
+    color: #656565;
+    text-align: left;
+    align-items: center;
+    height: 1.125rem;
+    flex-shrink: 0;
+}
+.footer-menu5 {
+    width: 8.875rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-menu6 {
+    align-self: stretch;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-menu7 {
+    width: 3.25rem;
+    position: relative;
+    height: 1.813rem;
+}
+.oferta {
+    position: absolute;
+    top: 3.813rem;
+    left: 38.188rem;
+    width: 11.188rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.187rem;
+}
+.edukacja-wsppraca-biznes {
+    align-self: stretch;
+    position: relative;
+}
+.budujemy-przedsibiorczo-jut {
+    align-self: stretch;
+    position: relative;
+    margin-top: -0.438rem;
+}
+.tagline {
+    position: absolute;
+    top: 7.875rem;
+    left: 8.438rem;
+    width: 18.375rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+}
+.wcp-logo-icon {
+    position: absolute;
+    top: 3.813rem;
+    left: 8.375rem;
+    width: 10.5rem;
+    height: 3.313rem;
+    object-fit: cover;
+}
+.wypelnij-formularz {
+    position: relative;
+}
+.buttons {
+    position: absolute;
+    top: 11.5rem;
+    left: 67.938rem;
+    box-shadow: 0px 0px 5.3px rgba(0, 0, 0, 0.35);
+    border-radius: 50px;
+    background-color: #379860;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0.625rem 2.625rem;
+    cursor: pointer;
+    color: #fff;
+}
+.language-icon {
+    width: 1.5rem;
+    position: relative;
+    height: 1.5rem;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.english {
+    width: 3.625rem;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1rem;
+    flex-shrink: 0;
+}
+.language {
+    position: absolute;
+    top: calc(50% + 26.5px);
+    left: calc(50% - 586px);
+    border: 1px solid #545454;
+    box-sizing: border-box;
+    width: 6.875rem;
+    height: 2.313rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0.437rem;
+}
+.footer {
+    position: absolute;
+    top: 91.25rem;
+    left: calc(50% - 45rem);
+    width: 90rem;
+    height: 21.188rem;
+    overflow: hidden;
+}
+.rysy-logo-icon {
+    width: 14.094rem;
+    position: relative;
+    height: 5rem;
+    object-fit: cover;
+}
+.now-logo-icon {
+    width: 11.5rem;
+    position: relative;
+    height: 5.875rem;
+    object-fit: cover;
+}
+.malik-logo-icon {
+    width: 13.313rem;
+    position: relative;
+    height: 5.313rem;
+    object-fit: cover;
+}
+.illipula-logo-icon {
+    width: 6.125rem;
+    position: relative;
+    height: 6.125rem;
+    object-fit: cover;
+}
+.cisneklate-logo-icon {
+    width: 17.188rem;
+    position: relative;
+    height: 5.313rem;
+    object-fit: cover;
+}
+.haninge-logo-icon {
+    width: 14.625rem;
+    position: relative;
+    height: 4.563rem;
+    object-fit: cover;
+}
+.partners {
+    position: absolute;
+    bottom: 23.938rem;
+    left: calc(50% - 692px);
+    width: 86.531rem;
+    height: 6.125rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.937rem;
+}
+.vector-icon {
+    position: absolute;
+    top: 3.063rem;
+    left: 23.313rem;
+    width: 39.719rem;
+    height: 39.656rem;
+    object-fit: contain;
+}
+.vector-icon1 {
+    position: absolute;
+    top: 18.688rem;
+    left: 62.188rem;
+    width: 39.719rem;
+    height: 39.656rem;
+    object-fit: contain;
+}
+.vector-icon2 {
+    position: absolute;
+    top: 14.125rem;
+    left: 0rem;
+    width: 55.875rem;
+    height: 56.294rem;
+    object-fit: contain;
+}
+.vector-icon3 {
+    position: absolute;
+    top: 0rem;
+    left: 75.938rem;
+    width: 55.875rem;
+    height: 56.294rem;
+    object-fit: contain;
+}
+.rectangles {
+    position: absolute;
+    top: -15.25rem;
+    left: -17.375rem;
+    width: 131.813rem;
+    height: 70.419rem;
+}
+.title1 {
+    align-self: stretch;
+    position: relative;
+    line-height: 2.813rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 3.813rem;
+    flex-shrink: 0;
+}
+.content {
+    align-self: stretch;
+    position: relative;
+    font-size: 1.563rem;
+    line-height: 2.188rem;
+    font-family: Jaldi;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 3.625rem;
+    flex-shrink: 0;
+}
+.text {
+    position: absolute;
+    top: 6.875rem;
+    left: 26rem;
+    width: 59.25rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.title {
+    position: absolute;
+    top: 5.813rem;
+    left: 0rem;
+    background-color: #c8e8cd;
+    width: 100%;
+    height: 36.5rem;
+    overflow: hidden;
+    font-size: 2.813rem;
+    font-family: Akatab;
+}
+.kontakt1 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.875rem;
+}
+.div {
+    position: absolute;
+    top: calc(50% - 17.5px);
+    left: calc(50% - 41.5px);
+    line-height: 2.188rem;
+}
+.phone-icon {
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+    width: 2.438rem;
+    height: 2.438rem;
+    overflow: hidden;
+}
+.parent {
+    width: 14.313rem;
+    position: relative;
+    height: 2.438rem;
+}
+.officefundacjawcppl {
+    position: absolute;
+    top: calc(50% - 18px);
+    left: calc(50% - 73.75px);
+    line-height: 2.188rem;
+}
+.mail-icon {
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+    width: 2.625rem;
+    height: 2.625rem;
+}
+.officefundacjawcppl-parent {
+    width: 18.531rem;
+    position: relative;
+    height: 2.625rem;
+}
+.text1 {
+    position: absolute;
+    top: 13.375rem;
+    left: 4.813rem;
+    width: 19.188rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 1.75rem;
+}
+.sidebar {
+    position: absolute;
+    top: 1.313rem;
+    left: 1.375rem;
+    border-radius: 25px;
+    background-color: #c8e8cd;
+    width: 28.875rem;
+    height: 37.563rem;
+    overflow: hidden;
+    font-size: 1.563rem;
+    color: #545454;
+}
+.lines-icon {
+    position: absolute;
+    top: 9.625rem;
+    left: 34.875rem;
+    width: 33.5rem;
+    height: 15rem;
+}
+.form-child {
+    position: absolute;
+    top: 26.063rem;
+    left: 35.625rem;
+    border-radius: 2px;
+    border: 1px solid #545454;
+    box-sizing: border-box;
+    width: 0.875rem;
+    height: 0.875rem;
+}
+.polityka-prywatnosci {
+    position: absolute;
+    top: calc(50% + 93px);
+    left: calc(50% + 11.5px);
+    font-size: 0.625rem;
+    color: #545454;
+}
+.imi-i-nazwisko {
+    position: absolute;
+    top: calc(50% - 195px);
+    left: calc(50% - 18.5px);
+}
+.temat {
+    position: absolute;
+    top: calc(50% - 101px);
+    left: calc(50% - 22.5px);
+}
+.tre {
+    position: absolute;
+    top: calc(50% + 45px);
+    left: calc(50% - 23.5px);
+}
+.adres-e-mail {
+    position: absolute;
+    top: calc(50% - 195px);
+    left: calc(50% + 285.5px);
+}
+.wyslij {
+    position: relative;
+    line-height: 1.875rem;
+}
+.buttons1 {
+    position: absolute;
+    top: 31.188rem;
+    left: 34.875rem;
+    box-shadow: 0px 0px 5.3px rgba(0, 0, 0, 0.35);
+    border-radius: 50px;
+    background-color: #379860;
+    width: 8.188rem;
+    height: 2.313rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0.625rem 2.625rem;
+    box-sizing: border-box;
+    font-size: 1.563rem;
+    color: #fff;
+}
+.form {
+    position: absolute;
+    top: 29.063rem;
+    left: 20rem;
+    box-shadow: 0px 0px 8.7px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+    background-color: #fff;
+    width: 72.938rem;
+    height: 40.375rem;
+    overflow: hidden;
+    color: rgba(84, 84, 84, 0.6);
+}
+.home {
+    position: absolute;
+    top: 25%;
+    left: 16.85%;
+    line-height: 2.188rem;
+}
+.header-menu {
+    width: 5.081rem;
+    position: relative;
+    height: 4.25rem;
+}
+.home1 {
+    position: absolute;
+    top: 25%;
+    left: 14.39%;
+    line-height: 2.188rem;
+}
+.home2 {
+    position: absolute;
+    top: 25%;
+    left: 11.93%;
+    line-height: 2.188rem;
+}
+.home3 {
+    position: absolute;
+    top: 25%;
+    left: 18.46%;
+    line-height: 2.188rem;
+}
+.konrakt {
+    width: 7.25rem;
+    position: relative;
+    height: 4.25rem;
+}
+.buttons2 {
+    position: absolute;
+    top: 0.813rem;
+    left: 29.063rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 3.125rem;
+}
+.logo-wcp-07-2 {
+    position: absolute;
+    top: 1.313rem;
+    left: 1.875rem;
+    width: 12.688rem;
+    height: 3.313rem;
+    object-fit: cover;
+    cursor: pointer;
+}
+.search-icon {
+    position: absolute;
+    top: 1.375rem;
+    left: 84rem;
+    width: 3.063rem;
+    height: 3.063rem;
+}
+.header {
+    position: absolute;
+    top: 0rem;
+    left: calc(50% - 720px);
+    background-color: #fff;
+    width: 90rem;
+    height: 5.813rem;
+    overflow: hidden;
+    font-size: 1.563rem;
+}
+.contact {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 112.438rem;
+    overflow: hidden;
+    text-align: center;
+    font-size: 1.063rem;
+    color: #545454;
+    font-family: Jaldi;
+}
+
+
+.value {
+    flex: 1;
+    position: relative;
+    line-height: 100%;
+}
+.x-icon {
+    width: 1rem;
+    position: relative;
+    height: 1rem;
+    overflow: hidden;
+    flex-shrink: 0;
+}

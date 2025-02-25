@@ -1,0 +1,568 @@
+.copyrights {
+    position: absolute;
+    top: 18.313rem;
+    left: 26.063rem;
+    font-size: 1.25rem;
+    color: #d8dede;
+    text-align: left;
+}
+.line-icon {
+    position: absolute;
+    top: 17.563rem;
+    left: 5rem;
+    width: 80rem;
+    height: 0.188rem;
+    object-fit: contain;
+}
+.o-nas {
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-menu {
+    width: 2.375rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-menu1 {
+    width: 3.313rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-menu2 {
+    width: 8.563rem;
+    position: relative;
+    height: 1.813rem;
+}
+.onas-kontakt-polityka {
+    position: absolute;
+    top: 6.438rem;
+    left: 65rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.187rem;
+}
+.footer-menu3 {
+    width: 2.688rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-menu4 {
+    width: 12.938rem;
+    position: relative;
+    height: 1.813rem;
+}
+.statut-standard {
+    position: absolute;
+    top: 8.563rem;
+    left: 64.875rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.125rem;
+}
+.facebook-icon {
+    width: 1.625rem;
+    position: relative;
+    border-radius: 5px;
+    height: 1.625rem;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.sm-footer {
+    position: absolute;
+    top: 3.813rem;
+    left: 75rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.875rem;
+}
+.oferta1 {
+    align-self: stretch;
+    position: relative;
+    display: flex;
+    color: #656565;
+    text-align: left;
+    align-items: center;
+    height: 1.125rem;
+    flex-shrink: 0;
+}
+.footer-menu5 {
+    width: 8.875rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-menu6 {
+    align-self: stretch;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-menu7 {
+    width: 3.25rem;
+    position: relative;
+    height: 1.813rem;
+}
+.oferta {
+    position: absolute;
+    top: 3.813rem;
+    left: 38.188rem;
+    width: 11.188rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.187rem;
+}
+.edukacja-wsppraca-biznes {
+    align-self: stretch;
+    position: relative;
+}
+.budujemy-przedsibiorczo-jut {
+    align-self: stretch;
+    position: relative;
+    margin-top: -0.438rem;
+}
+.tagline {
+    position: absolute;
+    top: 7.875rem;
+    left: 8.438rem;
+    width: 18.375rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+}
+.wcp-logo-icon {
+    position: absolute;
+    top: 3.813rem;
+    left: 8.375rem;
+    width: 10.5rem;
+    height: 3.313rem;
+    object-fit: cover;
+}
+.wypelnij-formularz {
+    position: relative;
+}
+.buttons {
+    position: absolute;
+    top: 11.5rem;
+    left: 67.938rem;
+    box-shadow: 0px 0px 5.3px rgba(0, 0, 0, 0.35);
+    border-radius: 50px;
+    background-color: #379860;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0.625rem 2.625rem;
+    cursor: pointer;
+    color: #fff;
+}
+.language-icon {
+    width: 1.5rem;
+    position: relative;
+    height: 1.5rem;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.english {
+    width: 3.625rem;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1rem;
+    flex-shrink: 0;
+}
+.language {
+    position: absolute;
+    top: calc(50% + 26.5px);
+    left: calc(50% - 586px);
+    border: 1px solid #545454;
+    box-sizing: border-box;
+    width: 6.875rem;
+    height: 2.313rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0.437rem;
+}
+.footer {
+    position: absolute;
+    top: 123.5rem;
+    left: calc(50% - 45rem);
+    width: 90rem;
+    height: 21.188rem;
+    overflow: hidden;
+    font-size: 1.063rem;
+}
+.rysy-logo-icon {
+    width: 14.094rem;
+    position: relative;
+    height: 5rem;
+    object-fit: cover;
+}
+.now-logo-icon {
+    width: 11.5rem;
+    position: relative;
+    height: 5.875rem;
+    object-fit: cover;
+}
+.malik-logo-icon {
+    width: 13.313rem;
+    position: relative;
+    height: 5.313rem;
+    object-fit: cover;
+}
+.illipula-logo-icon {
+    width: 6.125rem;
+    position: relative;
+    height: 6.125rem;
+    object-fit: cover;
+}
+.cisneklate-logo-icon {
+    width: 17.188rem;
+    position: relative;
+    height: 5.313rem;
+    object-fit: cover;
+}
+.haninge-logo-icon {
+    width: 14.625rem;
+    position: relative;
+    height: 4.563rem;
+    object-fit: cover;
+}
+.partners {
+    position: absolute;
+    bottom: 23.938rem;
+    left: calc(50% - 692px);
+    width: 86.531rem;
+    height: 6.125rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.937rem;
+}
+.img-1880-1-icon {
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+    width: 70.125rem;
+    height: 21.438rem;
+    object-fit: cover;
+}
+.gotowi-na-wkroczenie {
+    position: absolute;
+    top: calc(50% - 72.5px);
+    left: calc(50% - 444px);
+    line-height: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 55.5rem;
+}
+.edukacja {
+    position: relative;
+    line-height: 1.875rem;
+}
+.buttons1 {
+    position: absolute;
+    top: 13.188rem;
+    left: 29.25rem;
+    box-shadow: 0px 0px 5.3px rgba(0, 0, 0, 0.35);
+    border-radius: 50px;
+    background-color: #fff;
+    width: 11.688rem;
+    height: 3.5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0.625rem 2.625rem;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-size: 1.563rem;
+    color: #44844d;
+    font-family: Jaldi;
+}
+.vector-icon {
+    position: absolute;
+    top: -50.234rem;
+    left: 7.936rem;
+    width: 100.469rem;
+    height: 98.8rem;
+    object-fit: contain;
+    opacity: 0.7;
+}
+.vector-icon1 {
+    position: absolute;
+    top: -20.837rem;
+    left: -19.447rem;
+    width: 100.594rem;
+    height: 98.019rem;
+    object-fit: contain;
+    opacity: 0.7;
+}
+.contact-segment {
+    position: absolute;
+    top: 84.063rem;
+    left: calc(50% - 561px);
+    border-radius: 40px;
+    background-color: #379860;
+    width: 70.125rem;
+    height: 21.438rem;
+    overflow: hidden;
+    font-size: 2.5rem;
+    color: #fff;
+    font-family: Akatab;
+}
+.image-icon {
+    align-self: stretch;
+    position: relative;
+    border-radius: 40px 40px 0px 0px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 23.5rem;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.title {
+    width: 24.563rem;
+    position: relative;
+    line-height: 1.875rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.kompetencje-mikkie-dla {
+    /* margin-bottom: ; */
+}
+.podstawy-zarzdzania-projektam {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 1.352rem;
+}
+.content {
+    width: 18.125rem;
+    position: relative;
+    font-size: 1.063rem;
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.25rem;
+}
+.school {
+    width: 26.563rem;
+    border-radius: 40px;
+    background-color: #fff;
+    height: 45.438rem;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0rem 0rem 4.5rem;
+    box-sizing: border-box;
+    gap: 2.937rem;
+}
+.text1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.25rem;
+}
+.solo1 {
+    width: 26.563rem;
+    border-radius: 40px;
+    background-color: #fff;
+    height: 45rem;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0rem 0rem 4.5rem;
+    box-sizing: border-box;
+    gap: 2.937rem;
+}
+.company {
+    width: 26.563rem;
+    border-radius: 40px;
+    background-color: #fff;
+    height: 45rem;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0rem 0rem 2.687rem;
+    box-sizing: border-box;
+    gap: 2.937rem;
+}
+.buttons2 {
+    position: absolute;
+    top: 31.25rem;
+    left: calc(50% - 42rem);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2.25rem;
+}
+.title3 {
+    align-self: stretch;
+    position: relative;
+    line-height: 2.813rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5.875rem;
+    flex-shrink: 0;
+}
+.edukacja-pozaformalna-praktyc {
+    margin: 0;
+}
+.content-txt {
+    width: 100%;
+}
+.content3 {
+    width: 69.625rem;
+    position: relative;
+    font-size: 1.563rem;
+    line-height: 2.188rem;
+    font-family: Jaldi;
+    display: flex;
+    align-items: center;
+    height: 10rem;
+    flex-shrink: 0;
+    margin-top: -3.063rem;
+}
+.text3 {
+    position: absolute;
+    top: 12.75rem;
+    left: calc(50% - 559px);
+    width: 69.625rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 2.813rem;
+    font-family: Akatab;
+}
+.home {
+    position: absolute;
+    top: 25%;
+    left: 16.85%;
+    line-height: 2.188rem;
+}
+.header-menu {
+    width: 5.081rem;
+    position: relative;
+    height: 4.25rem;
+}
+.home1 {
+    position: absolute;
+    top: 25%;
+    left: 14.39%;
+    line-height: 2.188rem;
+}
+.home2 {
+    position: absolute;
+    top: 25%;
+    left: 11.93%;
+    line-height: 2.188rem;
+}
+.home3 {
+    position: absolute;
+    top: 25%;
+    left: 18.46%;
+    line-height: 2.188rem;
+}
+.konrakt {
+    width: 7.25rem;
+    position: relative;
+    height: 4.25rem;
+}
+.buttons3 {
+    position: absolute;
+    top: 0.813rem;
+    left: 29.063rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 3.125rem;
+}
+.logo-wcp-07-2 {
+    position: absolute;
+    top: 1.313rem;
+    left: 1.875rem;
+    width: 12.688rem;
+    height: 3.313rem;
+    object-fit: cover;
+    cursor: pointer;
+}
+.search-icon {
+    position: absolute;
+    top: 1.375rem;
+    left: 84rem;
+    width: 3.063rem;
+    height: 3.063rem;
+}
+.header {
+    position: absolute;
+    top: 0rem;
+    left: calc(50% - 720px);
+    background-color: #fff;
+    width: 90rem;
+    height: 5.813rem;
+    overflow: hidden;
+}
+.offer {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 144.688rem;
+    overflow: hidden;
+    text-align: center;
+    font-size: 1.563rem;
+    color: #545454;
+    font-family: Jaldi;
+}
+
+
+.value {
+    flex: 1;
+    position: relative;
+    line-height: 100%;
+}
+.x-icon {
+    width: 1rem;
+    position: relative;
+    height: 1rem;
+    overflow: hidden;
+    flex-shrink: 0;
+}

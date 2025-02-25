@@ -1,0 +1,577 @@
+.copyrights {
+    position: absolute;
+    top: 18.313rem;
+    left: 26.063rem;
+    font-size: 1.25rem;
+    color: #d8dede;
+    text-align: left;
+}
+.line-icon {
+    position: absolute;
+    top: 17.563rem;
+    left: 5rem;
+    width: 80rem;
+    height: 0.188rem;
+    object-fit: contain;
+}
+.footer-link-label {
+    /* Ta klasa zastępuje pierwotną .o-nas */
+}
+.footer-link-about {
+    width: 2.375rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-link-contact {
+    width: 3.313rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-link-privacy {
+    width: 8.563rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-nav {
+    position: absolute;
+    top: 6.438rem;
+    left: 65rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.187rem;
+}
+.footer-link-statute {
+    width: 2.688rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-link-child-protection {
+    width: 12.938rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-legal-links {
+    position: absolute;
+    top: 8.563rem;
+    left: 64.875rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.125rem;
+}
+.facebook-icon {
+    width: 1.625rem;
+    position: relative;
+    border-radius: 5px;
+    height: 1.625rem;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.footer-social {
+    position: absolute;
+    top: 3.813rem;
+    left: 75rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.875rem;
+}
+.oferta1 {
+    align-self: stretch;
+    position: relative;
+    display: flex;
+    color: #656565;
+    text-align: left;
+    align-items: center;
+    height: 1.125rem;
+    flex-shrink: 0;
+}
+.footer-offer-schools {
+    width: 8.875rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-offer-individual {
+    align-self: stretch;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-offer-companies {
+    width: 3.25rem;
+    position: relative;
+    height: 1.813rem;
+}
+.footer-offer {
+    position: absolute;
+    top: 3.813rem;
+    left: 38.188rem;
+    width: 11.188rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.187rem;
+}
+.footer-tagline-primary {
+    align-self: stretch;
+    position: relative;
+}
+.footer-tagline-secondary {
+    align-self: stretch;
+    position: relative;
+    margin-top: -0.438rem;
+}
+.footer-tagline {
+    position: absolute;
+    top: 7.875rem;
+    left: 8.438rem;
+    width: 18.375rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+}
+.wcp-logo-icon {
+    position: absolute;
+    top: 3.813rem;
+    left: 8.375rem;
+    width: 10.5rem;
+    height: 3.313rem;
+    object-fit: cover;
+}
+.cta-form {
+    position: absolute;
+    top: 11.5rem;
+    left: 67.938rem;
+    box-shadow: 0px 0px 5.3px rgba(0, 0, 0, 0.35);
+    border-radius: 50px;
+    background-color: #379860;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0.625rem 2.625rem;
+    cursor: pointer;
+    color: #fff;
+}
+.language-icon {
+    width: 1.5rem;
+    position: relative;
+    height: 1.5rem;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.language-label {
+    width: 3.625rem;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1rem;
+    flex-shrink: 0;
+}
+.language-selector {
+    position: absolute;
+    top: calc(50% + 26.5px);
+    left: calc(50% - 586px);
+    border: 1px solid #545454;
+    box-sizing: border-box;
+    width: 6.875rem;
+    height: 2.313rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0.437rem;
+}
+.site-footer {
+    position: absolute;
+    top: 223.625rem;
+    left: calc(50% - 45rem);
+    width: 90rem;
+    height: 21.188rem;
+    overflow: hidden;
+    font-size: 1.063rem;
+}
+.rysy-logo-icon {
+    width: 14.094rem;
+    position: relative;
+    height: 5rem;
+    object-fit: cover;
+}
+.now-logo-icon {
+    width: 11.5rem;
+    position: relative;
+    height: 5.875rem;
+    object-fit: cover;
+}
+.malik-logo-icon {
+    width: 13.313rem;
+    position: relative;
+    height: 5.313rem;
+    object-fit: cover;
+}
+.illipula-logo-icon {
+    width: 6.125rem;
+    position: relative;
+    height: 6.125rem;
+    object-fit: cover;
+}
+.cisneklate-logo-icon {
+    width: 17.188rem;
+    position: relative;
+    height: 5.313rem;
+    object-fit: cover;
+}
+.haninge-logo-icon {
+    width: 14.625rem;
+    position: relative;
+    height: 4.563rem;
+    object-fit: cover;
+}
+.partner-logos {
+    position: absolute;
+    bottom: 23.938rem;
+    left: calc(50% - 692px);
+    width: 86.531rem;
+    height: 6.125rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.937rem;
+}
+.img-1880-1-icon {
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+    width: 70.125rem;
+    height: 21.438rem;
+    object-fit: cover;
+}
+.gotowi-na-wkroczenie {
+    position: absolute;
+    top: calc(50% - 72.5px);
+    left: calc(50% - 444px);
+    line-height: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 55.5rem;
+}
+.edukacja {
+    position: relative;
+    line-height: 1.875rem;
+}
+.cta-contact {
+    position: absolute;
+    top: 13.188rem;
+    left: 29.25rem;
+    box-shadow: 0px 0px 5.3px rgba(0, 0, 0, 0.35);
+    border-radius: 50px;
+    background-color: #fff;
+    width: 11.688rem;
+    height: 3.5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0.625rem 2.625rem;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-size: 1.563rem;
+    color: #44844d;
+}
+.vector-icon {
+    position: absolute;
+    top: -50.234rem;
+    left: 7.936rem;
+    width: 100.469rem;
+    height: 98.8rem;
+    object-fit: contain;
+    opacity: 0.7;
+}
+.vector-icon1 {
+    position: absolute;
+    top: -20.837rem;
+    left: -19.447rem;
+    width: 100.594rem;
+    height: 98.019rem;
+    object-fit: contain;
+    opacity: 0.7;
+}
+.contact-section {
+    position: absolute;
+    top: 181.188rem;
+    left: calc(50% - 561px);
+    border-radius: 40px;
+    background-color: #379860;
+    width: 70.125rem;
+    height: 21.438rem;
+    overflow: hidden;
+    font-size: 2.5rem;
+    color: #fff;
+}
+.member-name {
+    line-height: 1.2rem;
+}
+.member-desc {
+    margin: 0;
+}
+.prezes {
+    margin: 0;
+    line-height: 1.4rem;
+}
+.member-header {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.member-bio {
+    width: 33.5rem;
+    position: relative;
+    font-size: 1.063rem;
+    display: inline-block;
+}
+.member-info {
+    position: absolute;
+    height: 93.18%;
+    width: 43.39%;
+    top: 3.41%;
+    right: 0%;
+    bottom: 3.41%;
+    left: 56.61%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1rem;
+}
+.image-icon {
+    position: absolute;
+    height: 100%;
+    width: 45.04%;
+    top: 0%;
+    right: 54.96%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 40px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.team-member-marcin {
+    width: 75.625rem;
+    position: relative;
+    height: 33rem;
+}
+.name1 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.875rem;
+}
+.member-role {
+    align-self: stretch;
+    position: relative;
+    line-height: 2.188rem;
+}
+.team-member-piotr,
+.team-member-filip {
+    align-self: stretch;
+    position: relative;
+    height: 33rem;
+}
+.team-members {
+    position: absolute;
+    top: 55.813rem;
+    left: 20rem;
+    width: 75.625rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 7.125rem;
+    text-align: left;
+    color: #656565;
+}
+.vector-icon2 {
+    position: absolute;
+    top: 0.313rem;
+    left: 44.25rem;
+    width: 39.719rem;
+    height: 39.656rem;
+    object-fit: contain;
+}
+.vector-icon3 {
+    position: absolute;
+    top: 24.063rem;
+    left: 0rem;
+    width: 39.719rem;
+    height: 39.656rem;
+    object-fit: contain;
+}
+.vector-icon4 {
+    position: absolute;
+    top: 14.313rem;
+    left: 51.063rem;
+    width: 39.719rem;
+    height: 39.656rem;
+    object-fit: contain;
+}
+.vector-icon5 {
+    position: absolute;
+    top: 4.938rem;
+    left: 6rem;
+    width: 55.875rem;
+    height: 56.294rem;
+    object-fit: contain;
+}
+.vector-icon6 {
+    position: absolute;
+    top: 0rem;
+    left: 54.438rem;
+    width: 55.875rem;
+    height: 56.294rem;
+    object-fit: contain;
+}
+.title-decor {
+    position: absolute;
+    top: -12.437rem;
+    left: 5.875rem;
+    width: 110.313rem;
+    height: 63.719rem;
+}
+.title-text {
+    position: absolute;
+    top: 5.375rem;
+    left: 5.313rem;
+    width: 31.375rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.image-wcp-team-icon {
+    position: absolute;
+    top: 4.875rem;
+    left: 52.75rem;
+    width: 62.063rem;
+    height: 31.563rem;
+    object-fit: cover;
+}
+.member-title {
+    align-self: stretch;
+    position: relative;
+}
+.section-title {
+    position: absolute;
+    top: 5.875rem;
+    left: 0rem;
+    background-color: #c8e8cd;
+    width: 100%;
+    height: 36.25rem;
+    overflow: hidden;
+    text-align: left;
+    font-size: 2.813rem;
+    font-family: Akatab;
+}
+.nav-label-home {
+    position: absolute;
+    top: 25%;
+    left: 16.85%;
+    line-height: 2.188rem;
+}
+.nav-item {
+    width: 5.081rem;
+    position: relative;
+    height: 4.25rem;
+}
+.nav-label-offer {
+    position: absolute;
+    top: 25%;
+    left: 14.39%;
+    line-height: 2.188rem;
+}
+.nav-label-team {
+    position: absolute;
+    top: 25%;
+    left: 11.93%;
+    line-height: 2.188rem;
+}
+.nav-item-contact {
+    width: 7.25rem;
+    position: relative;
+    height: 4.25rem;
+}
+.nav-label-contact {
+    position: absolute;
+    top: 25%;
+    left: 18.46%;
+    line-height: 2.188rem;
+}
+.nav-links {
+    position: absolute;
+    top: 0.813rem;
+    left: 29.063rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 3.125rem;
+}
+.logo-wcp-07-2 {
+    position: absolute;
+    top: 1.313rem;
+    left: 1.875rem;
+    width: 12.688rem;
+    height: 3.313rem;
+    object-fit: cover;
+    cursor: pointer;
+}
+.search-icon {
+    position: absolute;
+    top: 1.375rem;
+    left: 84rem;
+    width: 3.063rem;
+    height: 3.063rem;
+}
+.site-nav {
+    position: absolute;
+    top: 0rem;
+    left: calc(50% - 720px);
+    background-color: #fff;
+    width: 90rem;
+    height: 5.813rem;
+    overflow: hidden;
+}
+.value {
+    flex: 1;
+    position: relative;
+    line-height: 100%;
+}
+.x-icon {
+    width: 1rem;
+    position: relative;
+    height: 1rem;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.team-section {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 244.813rem;
+    overflow: hidden;
+    text-align: center;
+    font-size: 1.563rem;
+    color: #545454;
+    font-family: Jaldi;
+}
